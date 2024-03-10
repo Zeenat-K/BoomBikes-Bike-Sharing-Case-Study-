@@ -12,7 +12,7 @@ Key points:
 
 Found some interesting insights! The key one being that most bike-rentals happen when the **weather is _Clear_, during Fall season (_September!_) and during weekdays (esp. _Thursday_)** . More on that in the notebook.
 
-This one was a bit tough, but fun :) 
+This one was a bit tough, but fun :) Feel free to provide all your suggestion and feedback...!!
 
 Download dataset by clicking [here](https://drive.google.com/drive/folders/1QF52BLUjgmJ6kO11-Psx18BSlJFL-16d?usp=sharing).
 
